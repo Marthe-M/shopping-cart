@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "name": "iPhone 6S",
+        "description": "The iPhone 6S and iPhone 6S Plus are smartphones designed by Apple Inc. The devices are part of the iPhone series and were announced on September 9, 2015. The iPhone 6S and iPhone 6S Plus jointly serve as successors to the iPhone 6 and iPhone 6 Plus of 2014, and predecceesors to the iPhone 7/7 Plus of 2016. It is the oldest iPhone left in support.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/4/48/6s.PNG",
+        "price": 799
+    },
+    {
+        "id": 1,
+        "name": "iPhone 5S",
+        "description": "The iPhone 5S is a next generation iPhone that was designed by Apple and released on September 10, 2013 (along with the iPhone 5C and iOS 7). The iPhone 5S is very similar in form factor to the previous generation iPhone 5 and is available in Space Grey, Silver, and Gold. This is the first iPhone to introduce Touch ID.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/5/5e/IPhone_5s.png",
+        "price": 349
+    },
+    {
+        "id": 2,
+        "name": "Macbook",
+        "description": "The MacBook Pro is a line of high-end laptop computers made by Apple Inc. It replaced the PowerBook G4 and was the second model, after the iMac, to be announced in the Apple–Intel transition. The MacBook Pro is the high end laptop of the MacBook family and is currently produced with 13-inch, 14-inch and 16-inch sized screens.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/2/28/R.PNG",
+        "price": 1499
+    },
+    {
+        "id": 3,
+        "name": "Macbook Air",
+        "description": "The MacBook Air family is a line of ultraportable Macintosh notebook computers from Apple Inc.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/d/d7/U.PNG",
+        "price": 999
+    },
+    {
+        "id": 4,
+        "name": "iPad Mini",
+        "description": "The iPad mini is a series of small tablet computers designed, developed, and marketed by Apple Inc. It was introduced on October 23, 2012 as the first iPad model to feature a reduced screen size of 7.9 inches, in contrast to the then-standard 9.7 inches. The first iPad mini featured the same internal specifications as the iPad 2, including its display resolution.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/8/84/IPad_mini_white_and_black.png",
+        "price": 499
+    },
+    {
+        "id": 5,
+        "name": "iPad Air",
+        "description": "The iPad Pro is the flagship line of professional tablet computers from Apple Inc. It was first announced on October 9, 2015 and released on November 11, 2015, superseding the iPad Air 2 as the high end of the iPad line. It has since become its own product line, consisting of a lighter compact model and a larger 12.9-inch model.The iPad Air is a premium lightweight version of Apple's iPad tablet devices. The first iPad Air resembled an enlarged iPad mini but is lighter, thinner, and more powerful than previous standard models. The 64-bit Apple A7 chip powers the lightweight device. Apple says that this tablet is up to twice as fast as 4th-generation iPads. Notable improvements include a second microphone for improved audio recordings. Apple also added a second antenna for better Wi-Fi connections.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/7/7b/Ipad-air-compare-hero-2013.png",
+        "price": 699
+    },
+      {
+        "id": 6,
+        "name": "Apple Watch SE",
+        "description": "Apple Watch SE is a budget smartwatch of the Apple Watch lineup that was announced in a special event on September 15, 2020 and released on September 18 by Apple Inc.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/d/dc/Apple_Watch_SE_gold_hero.jpg",
+        "price": 599
+    },
+    {
+        "id": 7,
+        "name": "Apple TV HD",
+        "description": "The 4th-generation Apple TV was announced by Apple on September 9, 2015 at a Apple Special Event using a new operating system, tvOS, with an App Store, allowing downloads of third-party apps for video, audio, games and other content. Upon release, third-party apps were available from a limited range of providers, with new APIs providing opportunities for more apps. A requirement of new apps and games was that they must include interfacing with the new touchpad-enabled Siri remote, which was later relaxed for games. In March 2019, Apple rebranded the device as Apple TV HD.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/f/f1/Images.duckduckgo.jpg",
+        "price": 499
+    },
+     {
+        "id": 8,
+        "name": "HomePod mini",
+        "description": "The HomePod mini is a smart speaker system and digital assistant developed by Apple Inc. It was announced in a special event on October 13, 2020 alongside the iPhone 12 series. HomePod mini became available for pre-order on November 6, 2020 in Space Gray or White for US$ 99 and shipped on November 16, 2020.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/f/fd/HomePod_mini_white.png",
+        "price": 499
+    },
+     {
+        "id": 9,
+        "name": "AirTag",
+        "description": "The AirTag is a location tracking device that was announced by Apple on April 20, 2021.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/7/7a/AirTag_front_back.png",
+        "price": 199
+    },
+    {
+        "id": 10,
+        "name": "Mac Mini",
+        "description": "The Mac mini is a small desktop computer developed by Apple Inc. Like other Mini-ITX PC designs, it is very small for a desktop computer: 6.5 inches (16.5 cm) square and 2 inches (5.1 cm) tall. It weighs 2.9 pounds (1.31 kg); its external power supply is roughly one third of the size of the computer itself.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/7/7b/Overview_hero_design.png",
+        "price": 799
+    },
+    {
+        "id": 11,
+        "name": "iMac",
+        "description": "The iMac is range of Macintosh desktop computers designed and built by Apple Inc. It has been a large part of Apple's consumer desktop offerings since its introduction in 1998, and has evolved through four distinct forms. In its original form, the iMac was gum drop- or egg-shaped with a CRT monitor, mainly enclosed by colored, translucent plastic. The second major revision, the iMac G4, moved to a design with a hemispherical base containing all main components and an LCD monitor on a freely moving arm attached to the top of the base. The iMac G5 placed all the internal components immediately behind the display, creating a self-contained design that tilts only up and down on a simple metal base. All subsquent Intel-based iMacs have followed this design, despite changes in materials and size. The current iMac shares the same form as the previous models, but is now slimmer and uses black-bordered glass and anodized aluminum for its case.",
+        "imageUrl": "https://static.wikia.nocookie.net/ipod/images/c/c5/IMac_Early_2021.jpeg",
+        "price": 1199
+    }
+]
