@@ -29,6 +29,7 @@ const Navbar = () => {
 
     useEffect(() => {
         searchResults(updateSearchTerm)
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [updateSearchTerm])
 
     let totalAmount = state.products.map(item => item.amount)
